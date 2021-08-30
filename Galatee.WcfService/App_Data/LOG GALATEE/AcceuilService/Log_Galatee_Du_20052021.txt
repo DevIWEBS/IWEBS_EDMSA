@@ -1,0 +1,5 @@
+20/05/2021 19:47:09 | LicenceOK | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+20/05/2021 20:19:00 | SyncInvokeProcesVerbal | ProcesVerbal
+

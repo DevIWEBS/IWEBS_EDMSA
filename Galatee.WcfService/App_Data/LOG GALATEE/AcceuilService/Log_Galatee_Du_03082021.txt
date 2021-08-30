@@ -1,0 +1,7 @@
+03/08/2021 09:18:06 | SyncInvokeRetourneCategorie | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=6188; poignée de main=10857; 
+
+03/08/2021 09:28:41 | SyncInvokeChargerLesTournees | La référence d'objet n'est pas définie à une instance d'un objet.
+
+03/08/2021 09:28:43 | SyncInvokeRetourneListeDemande | Échec du fournisseur sous-jacent sur Open.
+

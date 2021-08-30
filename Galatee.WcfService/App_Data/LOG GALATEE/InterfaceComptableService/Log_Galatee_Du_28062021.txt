@@ -1,0 +1,4 @@
+28/06/2021 11:44:25 | Retournefacture | SPX_CPT_FACTURE_REDFAC:Une exception de type 'System.OutOfMemoryException' a été levée.
+
+28/06/2021 11:52:02 | Retournefacture | SPX_CPT_FACTURE_REDFAC:Une exception de type 'System.OutOfMemoryException' a été levée.
+

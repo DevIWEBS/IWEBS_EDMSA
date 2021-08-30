@@ -1,0 +1,2 @@
+E:\EDEN\EDMSA\iWEBS_EDMSA\Galatee.Silverlight
+Generated_Code\Galatee.Silverlight.Web.g.cs

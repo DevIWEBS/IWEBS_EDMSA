@@ -1,0 +1,79 @@
+14/02/2021 13:30:28 | LicenceOK | Enregistrement annulé :
+Expiration du délai d'attente. Le délai d'attente s'est écoulé avant obtention d'une connexion du pool. Ceci est probablement dû au fait que toutes les connexions regroupées sont en cours d'utilisation et que la taille maximale du pool a été atteinte.
+
+14/02/2021 13:43:26 | SyncInvokeProcesVerbal | ProcesVerbal
+
+14/02/2021 15:06:33 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:35 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:37 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:39 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:42 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:46 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:49 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:51 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:53 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:58 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:06:59 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:07:00 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:07:01 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:02 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:06 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:07:15 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:18 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:26 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:30 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:30 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:32 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:33 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:34 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:07:34 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:07:34 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:07:35 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:07:35 | SyncInvokeRechercherClientRegrouper | Debut rechercher de donnée client 
+
+14/02/2021 15:07:36 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:41 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:44 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:49 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:54 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:55 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:57 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:07:58 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:08:00 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+
+14/02/2021 15:08:00 | SyncInvokeRechercherClientRegrouper | Fin rechercher de donnée client 
+

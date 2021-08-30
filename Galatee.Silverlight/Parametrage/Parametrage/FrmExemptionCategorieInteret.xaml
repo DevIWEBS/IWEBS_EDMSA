@@ -1,0 +1,59 @@
+﻿<sdk:ChildWindow
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+           xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk" 
+           xmlns:Classes="clr-namespace:Galatee.Silverlight.Classes" 
+           xmlns:Controls="clr-namespace:SilverlightContrib.Controls;assembly=SilverlightContrib.Controls" 
+           x:Class="Galatee.Silverlight.Parametrage.FrmExemptionCategorieInteret"
+           Width="835.134" Height="471.612" 
+           Title="Exemption catégorie intérêt moratoire">
+    <sdk:ChildWindow.Resources>
+        <Classes:DateTimeConverter x:Key="DateTimeConverter"/>
+    </sdk:ChildWindow.Resources>
+    <sdk:ChildWindow.Style>
+        <StaticResource ResourceKey="ChildWindowGalatee"/>
+    </sdk:ChildWindow.Style>
+    <Grid x:Name="LayoutRoot" Margin="2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="121*"/>
+            <ColumnDefinition Width="686*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Button x:Name="CancelButton" Content="Fermer" Click="CancelButton_Click" Width="75" Height="23" HorizontalAlignment="Right" Margin="0,12,0,0" Grid.Row="1" Grid.Column="1" />
+        <Button x:Name="OKButton" Content="OK" Click="OKButton_Click" Width="75" HorizontalAlignment="Right" Margin="0,12,79,0" Grid.Row="1" Height="23" VerticalAlignment="Top" Grid.Column="1" />
+        <Button Content="==&gt;" HorizontalAlignment="Left" Margin="248.552,130,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1" Grid.Column="1"/>
+        <Button Content="=&gt;&gt;" HorizontalAlignment="Left" Margin="248.552,157,0,0" VerticalAlignment="Top" Width="75" Height="26" Grid.Column="1" Visibility="Collapsed"/>
+        <Button Content="&lt;==" HorizontalAlignment="Left" Margin="249,254,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2" Grid.Column="1"/>
+        <sdk:DataGrid AutoGenerateColumns="False" Height="336" HorizontalAlignment="Left" Margin="14,16,0,0" x:Name="dataGrid1" VerticalAlignment="Top" Width="347" AreRowGroupHeadersFrozen="False" SelectionChanged="dataGrid1_SelectionChanged" Grid.ColumnSpan="2" >
+            <sdk:DataGrid.Columns>
+                <sdk:DataGridTemplateColumn Width="35" >
+                    <sdk:DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <CheckBox x:Name="chk_Critere" IsChecked ="{Binding IsSelect,Mode=TwoWay}" 
+                                      VerticalAlignment="Center"  HorizontalAlignment="Center" HorizontalContentAlignment="Center"/>
+                        </DataTemplate>
+                    </sdk:DataGridTemplateColumn.CellTemplate>
+                </sdk:DataGridTemplateColumn>
+                <sdk:DataGridTextColumn CanUserReorder="False" Binding="{Binding LIBELLE}"  CanUserResize="False" CanUserSort="False" Width="Auto" MaxWidth="300" MinWidth="250"   Header="Catégories intérêt moratoire" IsReadOnly="True" />
+            </sdk:DataGrid.Columns>
+        </sdk:DataGrid>
+        <sdk:DataGrid AutoGenerateColumns="False" Height="336" HorizontalAlignment="Left" Margin="328.552,16,0,0" x:Name="dataGrid2" VerticalAlignment="Top" Width="347" AreRowGroupHeadersFrozen="False" SelectionChanged="dataGrid2_SelectionChanged" Grid.Column="1" >
+            <sdk:DataGrid.Columns>
+                <sdk:DataGridTemplateColumn Width="35" >
+                    <sdk:DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <CheckBox x:Name="chk_Critere" IsChecked ="{Binding IsSelect,Mode=TwoWay}" 
+                                      VerticalAlignment="Center"  HorizontalAlignment="Center" HorizontalContentAlignment="Center"/>
+                        </DataTemplate>
+                    </sdk:DataGridTemplateColumn.CellTemplate>
+                </sdk:DataGridTemplateColumn>
+                <sdk:DataGridTextColumn CanUserReorder="False" Binding="{Binding LIBELLE}"  CanUserResize="False" CanUserSort="True" Width="Auto" MaxWidth="300" MinWidth="250"   Header="Catégories exemptées" IsReadOnly="True" />
+            </sdk:DataGrid.Columns>
+        </sdk:DataGrid>
+    </Grid>
+</sdk:ChildWindow>

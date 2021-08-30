@@ -1,0 +1,28 @@
+28/06/2021 14:47:29 | RenderReport | loadData
+
+28/06/2021 14:47:29 | RenderReport | 025031447228
+
+28/06/2021 14:47:29 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+28/06/2021 14:47:29 | SyncInvokeGetCsPrintFromWebPart | 025031447228
+
+28/06/2021 14:47:29 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+28/06/2021 14:47:29 | LoadData | 025031447228
+
+28/06/2021 14:47:29 | LoadData | données trouve
+
+28/06/2021 14:47:29 | LoadData | Parametre non trouvé
+
+28/06/2021 14:47:29 | data | data trouve
+
+28/06/2021 14:47:29 | CreatePDFChemin | ~/Reports/Facturation/AnomalieFacturation.rdlc | Chemin du fichier rdlc
+
+28/06/2021 14:47:29 | CreatePDFChemin | Add DataSources ok
+
+28/06/2021 14:47:29 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+28/06/2021 14:47:31 | RunCreationPDF | An error occurred during local report processing.
+
+28/06/2021 14:47:31 | Callback | One or more parameters required to run the report have not been specified.
+

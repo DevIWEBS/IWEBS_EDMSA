@@ -1,0 +1,9 @@
+29/05/2021 00:19:24 | Retournefacture | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+29/05/2021 00:19:59 | Retournefacture | La valeur ne peut pas être null.
+Nom du paramètre : collection
+
+29/05/2021 00:26:25 | Retournefacture | La valeur ne peut pas être null.
+Nom du paramètre : collection
+

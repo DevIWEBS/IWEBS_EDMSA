@@ -1,0 +1,2 @@
+28/05/2021 12:10:38 | RetouneLaCaisseCouranteInseree | SPX_CAIS_GET_HABILITATIONCAISSE:La transaction (ID de processus 58) a été bloquée sur les ressources verrou | tampon de communication par un autre processus et a été choisie comme victime. Réexécutez la transaction.
+

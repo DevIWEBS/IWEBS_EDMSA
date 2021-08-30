@@ -1,0 +1,16 @@
+22/07/2021 19:28:51 | CREE_CAMPAGNE_PRECONTENTIEUX | SPX_CAMPAGNE_PRECONTENTIEUX:Procédure stockée 'SPX_CAMPAGNE_PRECONTENTIEUX' introuvable.
+
+22/07/2021 19:29:01 | CREE_CAMPAGNE_PRECONTENTIEUX | SPX_CAMPAGNE_PRECONTENTIEUX:Procédure stockée 'SPX_CAMPAGNE_PRECONTENTIEUX' introuvable.
+
+22/07/2021 19:29:59 | CREE_CAMPAGNE_PRECONTENTIEUX | SPX_CAMPAGNE_PRECONTENTIEUX:Procédure stockée 'SPX_CAMPAGNE_PRECONTENTIEUX' introuvable.
+
+22/07/2021 22:19:15 | RechercherClientSolde | SPX_CAMPAGNE_CLIENTSOLDE:Procédure stockée 'SPX_CAMPAGNE_CLIENTSOLDE' introuvable.
+
+22/07/2021 22:19:16 | RechercherClientSolde | SPX_CAMPAGNE_CLIENTSOLDE:Procédure stockée 'SPX_CAMPAGNE_CLIENTSOLDE' introuvable.
+
+22/07/2021 22:32:01 | RetourneCampagnePrecontentieux | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/07/2021 22:32:11 | RetourneCampagnePrecontentieux | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+

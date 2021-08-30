@@ -1,0 +1,37 @@
+28/05/2021 09:33:16 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 09:59:11 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 10:11:51 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 11:39:11 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 11:53:06 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 12:05:11 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 12:10:10 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 14:42:34 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 14:49:47 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 15:39:56 | RetourneListePoste | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+28/05/2021 16:32:47 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 16:33:38 | InsertUpdateUser | ok
+
+28/05/2021 16:36:19 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 17:35:42 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 22:02:32 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 22:32:04 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 22:46:40 | SyncInvokeRetourneListeAllUser | ok
+
+28/05/2021 22:47:48 | InsertUpdateUser | ok
+

@@ -1,0 +1,24 @@
+01/07/2021 12:33:42 | RenderReport | loadData
+
+01/07/2021 12:33:42 | RenderReport | 02527123335959
+
+01/07/2021 12:33:42 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+01/07/2021 12:33:42 | SyncInvokeGetCsPrintFromWebPart | 02527123335959
+
+01/07/2021 12:33:42 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+01/07/2021 12:33:43 | LoadData | 02527123335959
+
+01/07/2021 12:33:43 | LoadData | données trouve
+
+01/07/2021 12:33:43 | LoadData | Parametre non trouvé
+
+01/07/2021 12:33:43 | data | data trouve data count: 23
+
+01/07/2021 12:33:43 | Page_Load | RenderReport retour ok
+
+01/07/2021 12:33:43 | RunExportFile | \\LAP-IVS-01\Impression|ComptabilisationFac172021123343|pdf
+
+01/07/2021 12:33:49 | Page_Load | ICI3
+

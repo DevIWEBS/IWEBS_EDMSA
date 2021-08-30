@@ -1,0 +1,140 @@
+03/08/2021 09:21:56 | RenderReport | loadData
+
+03/08/2021 09:21:57 | RenderReport | 0351692154498
+
+03/08/2021 09:21:57 | SetErrorsFromSilverlightWebPrinting | Le processus ne peut pas accéder au fichier 'E:\EDEN\EDMSA\iWEBS_EDMSA\Galatee.WcfService\App_Data\LOG GALATEE\PrintingsService\Log_Galatee_Du_03082021.txt', car il est en cours d'utilisation par un autre processus.
+
+03/08/2021 09:21:57 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+03/08/2021 09:21:57 | RenderReport | 0351692154362
+
+| 0351692154498
+
+03/08/2021 09:21:57 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+03/08/2021 09:21:57 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+03/08/2021 09:21:57 | SyncInvokeGetCsPrintFromWebPart | 0351692154362
+
+03/08/2021 09:21:57 | LoadData | 0351692154498
+
+art | Lecture OK
+
+03/08/2021 09:21:57 | LoadData | Aucune données
+
+03/08/2021 09:21:57 | LoadData | Parametre non trouvé
+
+03/08/2021 09:21:57 | data | data Aucun
+
+03/08/2021 09:21:57 | Page_Load | RenderReport retour ok
+
+03/08/2021 09:21:57 | RunExportFile | \\LAP-IVS-01\Impression|Devis38202192157|doc
+
+03/08/2021 09:21:57 | LoadData | 0351692154362
+
+03/08/2021 09:21:57 | LoadData | données trouve
+
+03/08/2021 09:21:57 | LoadData | Parametre trouvé
+
+03/08/2021 09:21:57 | data | data trouve
+
+03/08/2021 09:22:01 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+03/08/2021 09:22:03 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+03/08/2021 09:22:03 | CreatePDFChemin | Add DataSources ok
+
+03/08/2021 09:22:03 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+03/08/2021 09:46:24 | RenderReport | loadData
+
+03/08/2021 09:46:24 | RenderReport | 0351694624685
+
+03/08/2021 09:46:24 | RenderReport | 0351694624540
+
+03/08/2021 09:46:24 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+03/08/2021 09:46:24 | SyncInvokeGetCsPrintFromWebPart | 0351694624685
+
+03/08/2021 09:46:24 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+
+
+03/08/2021 09:46:24 | SyncInvokeGetCsPrintFromWebPart | 0351694624540
+
+03/08/2021 09:46:24 | LoadData | 0351694624685
+
+art | Lecture OK
+
+03/08/2021 09:46:24 | LoadData | 0351694624540
+
+03/08/2021 09:46:24 | LoadData | Aucune données
+
+03/08/2021 09:46:24 | LoadData | données trouve
+
+é
+
+03/08/2021 09:46:24 | data | data Aucun
+
+03/08/2021 09:46:24 | Page_Load | RenderReport retour ok
+
+03/08/2021 09:46:24 | LoadData | Parametre trouvé
+
+03/08/2021 09:46:24 | RunExportFile | \\LAP-IVS-01\Impression|Devis38202194624|doc
+
+03/08/2021 09:46:24 | data | data trouve
+
+03/08/2021 09:46:25 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+03/08/2021 09:46:31 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+03/08/2021 09:46:31 | CreatePDFChemin | Add DataSources ok
+
+03/08/2021 09:46:31 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+03/08/2021 10:39:53 | RenderReport | loadData
+
+03/08/2021 10:39:53 | RenderReport | loadData
+
+03/08/2021 10:39:53 | RenderReport | 0351610395368
+
+03/08/2021 10:39:53 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+03/08/2021 10:39:53 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+03/08/2021 10:39:53 | SyncInvokeGetCsPrintFromWebPart | 0351610395354
+
+03/08/2021 10:39:54 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+
+
+03/08/2021 10:39:54 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+03/08/2021 10:39:54 | LoadData | 0351610395354
+
+03/08/2021 10:39:54 | LoadData | 0351610395368
+
+03/08/2021 10:39:54 | LoadData | données trouve
+
+03/08/2021 10:39:54 | LoadData | Aucune données
+
+03/08/2021 10:39:54 | LoadData | Parametre trouvé
+
+03/08/2021 10:39:54 | LoadData | Parametre non trouvé
+
+03/08/2021 10:39:54 | data | data trouve
+
+03/08/2021 10:39:54 | data | data Aucun
+
+03/08/2021 10:39:54 | CreatePDFChemin | ~/Reports/Accueil/ContratClient.rdlc | Chemin du fichier rdlc
+
+03/08/2021 10:39:54 | Page_Load | RenderReport retour ok
+
+03/08/2021 10:39:54 | RunExportFile | \\LAP-IVS-01\Impression|Devis382021103954|doc
+
+03/08/2021 10:39:58 | CreatePDFChemin | pTypedemande : System.Collections.Specialized.StringCollection  pTypedemande : System.Collections.Specialized.StringCollection | Set Parameters
+
+03/08/2021 10:39:58 | CreatePDFChemin | Add DataSources ok
+
+03/08/2021 10:39:58 | RunCreationPDF | \\LAP-IVS-01\Impression
+

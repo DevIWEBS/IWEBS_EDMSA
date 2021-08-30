@@ -1,0 +1,78 @@
+06/07/2021 07:12:14 | RenderReport | loadData
+
+06/07/2021 07:12:14 | RenderReport | 022997121071
+
+06/07/2021 07:12:14 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/07/2021 07:12:14 | SyncInvokeGetCsPrintFromWebPart | 022997121071
+
+06/07/2021 07:12:15 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/07/2021 07:12:15 | LoadData | 022997121071
+
+06/07/2021 07:12:15 | LoadData | données trouve
+
+06/07/2021 07:12:15 | LoadData | Parametre non trouvé
+
+06/07/2021 07:12:15 | data | data trouve data count: 3
+
+06/07/2021 07:12:15 | Page_Load | RenderReport retour ok
+
+06/07/2021 07:12:15 | RunExportFile | \\02299\Impression|RegistreDemande67202171215|xlsx
+
+06/07/2021 07:12:17 | RunExportFile | Générer byte
+
+06/07/2021 07:20:31 | RenderReport | loadData
+
+06/07/2021 07:20:31 | RenderReport | 0229972031382
+
+06/07/2021 07:20:31 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/07/2021 07:20:33 | SyncInvokeGetCsPrintFromWebPart | 0229972031382
+
+06/07/2021 07:20:33 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/07/2021 07:20:33 | LoadData | 0229972031382
+
+06/07/2021 07:20:33 | LoadData | données trouve
+
+06/07/2021 07:20:33 | LoadData | Parametre non trouvé
+
+06/07/2021 07:20:33 | data | data trouve data count: 3
+
+06/07/2021 07:20:33 | Page_Load | RenderReport retour ok
+
+06/07/2021 07:20:33 | RunExportFile | \\LAP-IVS-01\Impression|RegistreDemande67202172033|xlsx
+
+06/07/2021 07:20:34 | RunExportFile | Générer byte
+
+06/07/2021 07:20:34 | RunExportFile | Initialiser le filsStream
+
+06/07/2021 07:20:34 | RunExportFile | Création du fichier
+
+06/07/2021 07:20:34 | Page_Load | ICI3
+
+06/07/2021 10:06:48 | RenderReport | loadData
+
+06/07/2021 10:06:48 | RenderReport | 0252710647413
+
+06/07/2021 10:06:48 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+06/07/2021 10:06:48 | SyncInvokeGetCsPrintFromWebPart | 0252710647413
+
+06/07/2021 10:06:48 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+06/07/2021 10:06:48 | LoadData | 0252710647413
+
+06/07/2021 10:06:48 | LoadData | données trouve
+
+06/07/2021 10:06:48 | LoadData | Parametre non trouvé
+
+06/07/2021 10:06:48 | data | data trouve data count: 114
+
+06/07/2021 10:06:48 | Page_Load | RenderReport retour ok
+
+06/07/2021 10:06:48 | RunExportFile | \\LAP-IVS-01\Impression|ComptabilisationFac67202110648|pdf
+
+06/07/2021 10:06:52 | Page_Load | ICI3
+

@@ -1,0 +1,230 @@
+16/03/2021 09:13:04 | RenderReport | loadData
+
+16/03/2021 09:13:04 | RenderReport | 022999131285
+
+16/03/2021 09:13:04 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/03/2021 09:13:04 | SyncInvokeGetCsPrintFromWebPart | 022999131285
+
+16/03/2021 09:13:04 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/03/2021 09:13:04 | LoadData | 022999131285
+
+16/03/2021 09:13:04 | LoadData | données trouve
+
+16/03/2021 09:13:04 | LoadData | Parametre non trouvé
+
+16/03/2021 09:13:04 | data | data trouve
+
+16/03/2021 09:13:04 | CreatePDFChemin | ~/Reports/Recouvrement/AvisDeCoupureDetail.rdlc | Chemin du fichier rdlc
+
+16/03/2021 09:13:04 | CreatePDFChemin | Add DataSources ok
+
+16/03/2021 09:13:04 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+16/03/2021 09:34:12 | RenderReport | loadData
+
+16/03/2021 09:34:12 | RenderReport | 0229993412397
+
+16/03/2021 09:34:12 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/03/2021 09:34:12 | SyncInvokeGetCsPrintFromWebPart | 0229993412397
+
+16/03/2021 09:34:12 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/03/2021 09:34:12 | LoadData | 0229993412397
+
+16/03/2021 09:34:12 | LoadData | données trouve
+
+16/03/2021 09:34:12 | LoadData | Parametre non trouvé
+
+16/03/2021 09:34:12 | data | data trouve
+
+16/03/2021 09:34:12 | CreatePDFChemin | ~/Reports/Recouvrement/AvisDeCoupureDetail.rdlc | Chemin du fichier rdlc
+
+16/03/2021 09:34:12 | CreatePDFChemin | Add DataSources ok
+
+16/03/2021 09:34:12 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+16/03/2021 09:46:59 | RenderReport | loadData
+
+16/03/2021 09:46:59 | RenderReport | 0229994659211
+
+16/03/2021 09:46:59 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/03/2021 09:46:59 | SyncInvokeGetCsPrintFromWebPart | 0229994659211
+
+16/03/2021 09:46:59 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/03/2021 09:46:59 | LoadData | 0229994659211
+
+16/03/2021 09:46:59 | LoadData | données trouve
+
+16/03/2021 09:46:59 | LoadData | Parametre trouvé
+
+16/03/2021 09:46:59 | data | data trouve
+
+16/03/2021 09:46:59 | CreatePDFChemin | ~/Reports/Recouvrement/AvisDeCoupureListe.rdlc | Chemin du fichier rdlc
+
+16/03/2021 09:46:59 | CreatePDFChemin | pfirstzone : System.Collections.Specialized.StringCollection  pnamecontroller : System.Collections.Specialized.StringCollection | Set Parameters
+
+16/03/2021 09:46:59 | CreatePDFChemin | Add DataSources ok
+
+16/03/2021 09:46:59 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+16/03/2021 09:57:19 | RenderReport | loadData
+
+16/03/2021 09:57:19 | RenderReport | 022999571993
+
+16/03/2021 09:57:19 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/03/2021 09:57:19 | SyncInvokeGetCsPrintFromWebPart | 022999571993
+
+16/03/2021 09:57:19 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/03/2021 09:57:19 | LoadData | 022999571993
+
+16/03/2021 09:57:19 | LoadData | données trouve
+
+16/03/2021 09:57:19 | LoadData | Parametre trouvé
+
+16/03/2021 09:57:19 | data | data trouve
+
+16/03/2021 09:57:19 | CreatePDFChemin | ~/Reports/Recouvrement/AvisDeCoupureListe.rdlc | Chemin du fichier rdlc
+
+16/03/2021 09:57:20 | CreatePDFChemin | pfirstzone : System.Collections.Specialized.StringCollection  pnamecontroller : System.Collections.Specialized.StringCollection | Set Parameters
+
+16/03/2021 09:57:20 | CreatePDFChemin | Add DataSources ok
+
+16/03/2021 09:57:20 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+16/03/2021 11:57:52 | RenderReport | loadData
+
+16/03/2021 11:57:52 | RenderReport | loadData
+
+16/03/2021 11:57:52 | RenderReport | 09905115752554
+
+16/03/2021 11:57:52 | RenderReport | 09905115752683
+
+16/03/2021 11:57:52 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/03/2021 11:57:52 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/03/2021 11:57:52 | SyncInvokeGetCsPrintFromWebPart | 09905115752554
+
+16/03/2021 11:57:52 | SyncInvokeGetCsPrintFromWebPart | 09905115752683
+
+16/03/2021 11:57:52 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/03/2021 11:57:52 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/03/2021 11:57:52 | LoadData | 09905115752554
+
+16/03/2021 11:57:52 | LoadData | 09905115752683
+
+16/03/2021 11:57:52 | LoadData | données trouve
+
+16/03/2021 11:57:52 | LoadData | données trouve
+
+16/03/2021 11:57:52 | LoadData | Parametre trouvé
+
+16/03/2021 11:57:52 | data | data trouve
+
+16/03/2021 11:57:52 | LoadData | Parametre trouvé
+
+16/03/2021 11:57:52 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+16/03/2021 11:57:52 | data | data trouve
+
+16/03/2021 11:57:53 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+16/03/2021 11:57:53 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+16/03/2021 11:57:53 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+16/03/2021 11:57:53 | CreatePDFChemin | Add DataSources ok
+
+16/03/2021 11:57:53 | CreatePDFChemin | Add DataSources ok
+
+16/03/2021 11:57:53 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+16/03/2021 11:57:53 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+16/03/2021 13:33:25 | RenderReport | loadData
+
+16/03/2021 13:33:25 | RenderReport | 02299133323345
+
+16/03/2021 13:33:25 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/03/2021 13:33:25 | SyncInvokeGetCsPrintFromWebPart | 02299133323345
+
+16/03/2021 13:33:25 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/03/2021 13:33:25 | LoadData | 02299133323345
+
+16/03/2021 13:33:25 | LoadData | données trouve
+
+16/03/2021 13:33:25 | LoadData | Parametre trouvé
+
+16/03/2021 13:33:25 | data | data trouve
+
+16/03/2021 13:33:25 | CreatePDFChemin | ~/Reports/Recouvrement/AvisDeCoupureListe.rdlc | Chemin du fichier rdlc
+
+16/03/2021 13:33:26 | CreatePDFChemin | pfirstzone : System.Collections.Specialized.StringCollection  pnamecontroller : System.Collections.Specialized.StringCollection | Set Parameters
+
+16/03/2021 13:33:26 | CreatePDFChemin | Add DataSources ok
+
+16/03/2021 13:33:26 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+16/03/2021 14:03:58 | RenderReport | loadData
+
+16/03/2021 14:03:58 | RenderReport | 0229914357904
+
+16/03/2021 14:03:58 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/03/2021 14:03:58 | SyncInvokeGetCsPrintFromWebPart | 0229914357904
+
+16/03/2021 14:03:58 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/03/2021 14:03:58 | LoadData | 0229914357904
+
+16/03/2021 14:03:58 | LoadData | données trouve
+
+16/03/2021 14:03:58 | LoadData | Parametre trouvé
+
+16/03/2021 14:03:58 | data | data trouve
+
+16/03/2021 14:03:58 | CreatePDFChemin | ~/Reports/Recouvrement/AvisDeCoupureListe.rdlc | Chemin du fichier rdlc
+
+16/03/2021 14:03:59 | CreatePDFChemin | pfirstzone : System.Collections.Specialized.StringCollection  pnamecontroller : System.Collections.Specialized.StringCollection | Set Parameters
+
+16/03/2021 14:03:59 | CreatePDFChemin | Add DataSources ok
+
+16/03/2021 14:03:59 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+16/03/2021 14:44:02 | RenderReport | loadData
+
+16/03/2021 14:44:02 | RenderReport | 0229914440471
+
+16/03/2021 14:44:02 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+16/03/2021 14:44:02 | SyncInvokeGetCsPrintFromWebPart | 0229914440471
+
+16/03/2021 14:44:02 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+16/03/2021 14:44:02 | LoadData | 0229914440471
+
+16/03/2021 14:44:02 | LoadData | données trouve
+
+16/03/2021 14:44:02 | LoadData | Parametre trouvé
+
+16/03/2021 14:44:02 | data | data trouve
+
+16/03/2021 14:44:02 | CreatePDFChemin | ~/Reports/Recouvrement/AvisDeCoupureListe.rdlc | Chemin du fichier rdlc
+
+16/03/2021 14:44:02 | CreatePDFChemin | pfirstzone : System.Collections.Specialized.StringCollection  pnamecontroller : System.Collections.Specialized.StringCollection | Set Parameters
+
+16/03/2021 14:44:02 | CreatePDFChemin | Add DataSources ok
+
+16/03/2021 14:44:02 | RunCreationPDF | \\LAP-IVS-01\Impression
+

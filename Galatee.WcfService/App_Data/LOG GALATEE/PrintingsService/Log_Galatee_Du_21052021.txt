@@ -1,0 +1,104 @@
+21/05/2021 01:56:43 | RenderReport | loadData
+
+21/05/2021 01:56:43 | RenderReport | loadData
+
+21/05/2021 01:56:43 | RenderReport | 0351515642470
+
+21/05/2021 01:56:43 | RenderReport | 0351515642652
+
+21/05/2021 01:56:43 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+21/05/2021 01:56:43 | SyncInvokeGetCsPrintFromWebPart | 0351515642652
+
+21/05/2021 01:56:43 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+21/05/2021 01:56:43 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+21/05/2021 01:56:43 | SyncInvokeGetCsPrintFromWebPart | 0351515642470
+
+21/05/2021 01:56:43 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+21/05/2021 01:56:43 | LoadData | 0351515642470
+
+21/05/2021 01:56:43 | LoadData | 0351515642652
+
+21/05/2021 01:56:44 | LoadData | données trouve
+
+21/05/2021 01:56:44 | LoadData | données trouve
+
+21/05/2021 01:56:44 | LoadData | Parametre trouvé
+
+21/05/2021 01:56:44 | LoadData | Parametre trouvé
+
+21/05/2021 01:56:44 | data | data trouve
+
+21/05/2021 01:56:44 | data | data trouve
+
+21/05/2021 01:56:44 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+21/05/2021 01:56:44 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+21/05/2021 01:56:45 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+21/05/2021 01:56:45 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+21/05/2021 01:56:45 | CreatePDFChemin | Add DataSources ok
+
+21/05/2021 01:56:45 | CreatePDFChemin | Add DataSources ok
+
+21/05/2021 01:56:45 | RunCreationPDF | \\PC-DEV-010\Impression
+
+21/05/2021 01:56:45 | RunCreationPDF | \\PC-DEV-010\Impression
+
+21/05/2021 01:57:53 | RenderReport | loadData
+
+21/05/2021 01:57:53 | RenderReport | loadData
+
+21/05/2021 01:57:53 | RenderReport | 0351515753644
+
+21/05/2021 01:57:53 | RenderReport | 0351515753631
+
+21/05/2021 01:57:53 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+21/05/2021 01:57:53 | SyncInvokeGetCsPrintFromWebPart | 0351515753644
+
+21/05/2021 01:57:53 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+21/05/2021 01:57:53 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+21/05/2021 01:57:53 | SyncInvokeGetCsPrintFromWebPart | 0351515753631
+
+21/05/2021 01:57:53 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+21/05/2021 01:57:53 | LoadData | 0351515753644
+
+21/05/2021 01:57:53 | LoadData | 0351515753631
+
+21/05/2021 01:57:53 | LoadData | données trouve
+
+21/05/2021 01:57:53 | LoadData | données trouve
+
+21/05/2021 01:57:53 | LoadData | Parametre trouvé
+
+21/05/2021 01:57:53 | LoadData | Parametre trouvé
+
+21/05/2021 01:57:53 | data | data trouve
+
+21/05/2021 01:57:53 | data | data trouve
+
+21/05/2021 01:57:53 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+21/05/2021 01:57:53 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+21/05/2021 01:57:54 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+21/05/2021 01:57:54 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+21/05/2021 01:57:54 | CreatePDFChemin | Add DataSources ok
+
+21/05/2021 01:57:54 | CreatePDFChemin | Add DataSources ok
+
+21/05/2021 01:57:54 | RunCreationPDF | \\PC-DEV-010\Impression
+
+21/05/2021 01:57:54 | RunCreationPDF | \\PC-DEV-010\Impression
+

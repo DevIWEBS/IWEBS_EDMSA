@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b64f7903-90f8-4343-a3cb-6d4df82a9f7f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1819/Recouvrement/RecouvrementService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="RecouvrementService6.xsd" MetadataType="Schema" ID="a2c7ff1f-b66f-40fc-b5c5-964e57d4da80" SourceId="1" SourceUrl="http://localhost:1819/Recouvrement/RecouvrementService.svc?xsd=xsd1" />
+    <MetadataFile FileName="RecouvrementService61.xsd" MetadataType="Schema" ID="b077fc9b-95ab-43b4-b40a-721ec10fbbd3" SourceId="1" SourceUrl="http://localhost:1819/Recouvrement/RecouvrementService.svc?xsd=xsd4" />
+    <MetadataFile FileName="RecouvrementService62.xsd" MetadataType="Schema" ID="fadba635-1567-41e0-94c4-e88c5e75f0bd" SourceId="1" SourceUrl="http://localhost:1819/Recouvrement/RecouvrementService.svc?xsd=xsd5" />
+    <MetadataFile FileName="RecouvrementService63.xsd" MetadataType="Schema" ID="efd392fd-c2e5-4da3-80d3-3ef6d59a67b1" SourceId="1" SourceUrl="http://localhost:1819/Recouvrement/RecouvrementService.svc?xsd=xsd0" />
+    <MetadataFile FileName="RecouvrementService1.wsdl" MetadataType="Wsdl" ID="538b88b5-f5cf-4350-ac39-28a10dd0853e" SourceId="1" SourceUrl="http://localhost:1819/Recouvrement/RecouvrementService.svc?wsdl" />
+    <MetadataFile FileName="RecouvrementService64.xsd" MetadataType="Schema" ID="eefa8b67-39ed-408c-9b8a-97990727228d" SourceId="1" SourceUrl="http://localhost:1819/Recouvrement/RecouvrementService.svc?xsd=xsd3" />
+    <MetadataFile FileName="RecouvrementService1.disco" MetadataType="Disco" ID="353281e5-f3df-4169-838d-ddc4df04a421" SourceId="1" SourceUrl="http://localhost:1819/Recouvrement/RecouvrementService.svc?disco" />
+    <MetadataFile FileName="RecouvrementService65.xsd" MetadataType="Schema" ID="7ad89bf0-76a2-4c83-8fc3-05eced8a47a0" SourceId="1" SourceUrl="http://localhost:1819/Recouvrement/RecouvrementService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

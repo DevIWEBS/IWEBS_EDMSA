@@ -1,0 +1,24 @@
+15/02/2021 01:01:21 | RenderReport | loadData
+
+15/02/2021 01:01:21 | RenderReport | 022991116481
+
+15/02/2021 01:01:21 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+15/02/2021 01:01:21 | SyncInvokeGetCsPrintFromWebPart | 022991116481
+
+15/02/2021 01:01:21 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+15/02/2021 01:01:21 | LoadData | 022991116481
+
+15/02/2021 01:01:21 | LoadData | données trouve
+
+15/02/2021 01:01:21 | LoadData | Parametre non trouvé
+
+15/02/2021 01:01:21 | data | data trouve
+
+15/02/2021 01:01:21 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+15/02/2021 01:01:21 | CreatePDFChemin | Add DataSources ok
+
+15/02/2021 01:01:21 | RunCreationPDF | \\LAP-IVS-01\Impression
+

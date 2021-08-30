@@ -1,0 +1,37 @@
+﻿<controls:ChildWindow
+           xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+           xmlns:Controls="clr-namespace:SilverlightContrib.Controls;assembly=SilverlightContrib.Controls" xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk" x:Class="Galatee.Silverlight.Report.FrmListeInteretMoratoire"
+           Width="787" Height="240" 
+           Title="Liste des intérêts moratoire" Style="{StaticResource ChildWindowGalatee}"> 
+    <Grid x:Name="LayoutRoot" Margin="2">
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Controls:GroupBox FontWeight="SemiBold" Margin="0,6,0,10" x:Name="groupBox1_Copy3" Header="Critères" >
+        </Controls:GroupBox>
+        <Button x:Name="CancelButton" Content="Fermer" Click="CancelButton_Click" Width="98" Height="23" HorizontalAlignment="Right" Margin="0,8,4,4" Grid.Row="1" />
+        <Button x:Name="OKButton" Content="Afficher" Click="OKButton_Click" Width="98" Height="23" HorizontalAlignment="Right" Margin="0,8,109,4" Grid.Row="1" />
+        <sdk:Label Height="19" HorizontalAlignment="Left" Margin="10,27,0,0" x:Name="lbl_Centre_Copy" VerticalAlignment="Top" Width="75" Content="Site" />
+        <Button Content="..." Height="26" HorizontalAlignment="Left" Margin="100,0,0,83" x:Name="btn_Site" VerticalAlignment="Bottom" Width="43" Click="btn_Site_Click" />
+        <sdk:Label Height="19" HorizontalAlignment="Left" Margin="368,27,0,0" x:Name="lbl_Centre_Copy1" VerticalAlignment="Top" Width="109" Content="Catégorie" />
+        <Button Content="..." Height="26" HorizontalAlignment="Left" Margin="474,0,0,83" x:Name="btn_Categorie" VerticalAlignment="Bottom" Width="43" Click="btn_Categorie_Click" />
+        <sdk:Label Height="19" HorizontalAlignment="Left" Margin="368,57,0,0" x:Name="lbl_Centre_Copy2" VerticalAlignment="Top" Width="109" Content="Regroupement" />
+        <Button Content="..." Height="26" HorizontalAlignment="Left" Margin="474,0,0,51" x:Name="btn_Regroupement" VerticalAlignment="Bottom" Width="43" Click="btn_Regroupement_Click" />
+        <sdk:Label Height="21" HorizontalAlignment="Left" Margin="10,85,0,0" x:Name="lbl_Centre_Copy3" VerticalAlignment="Top" Width="79" Content="Période début " />
+        <sdk:Label Height="19" HorizontalAlignment="Left" Margin="368,85,0,0" x:Name="lbl_Centre_Copy4" VerticalAlignment="Top" Width="108" Content="Période fin" />
+        <ProgressBar x:Name="prgBar" HorizontalAlignment="Left" Height="23" Margin="10,8,0,0" VerticalAlignment="Top" Width="352" IsIndeterminate="True" Grid.Row="1"/>
+        <sdk:Label Height="23" HorizontalAlignment="Left" Margin="10,57,0,0" x:Name="lbl_Centre_Copy5" VerticalAlignment="Top" Width="79" Content="Centre" />
+        <Button Content="..." Height="26" HorizontalAlignment="Left" Margin="100,53,0,0" x:Name="btn_Centre" VerticalAlignment="Top" Width="43" Click="btn_Centre_Click" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="100,85,0,0" x:Name="txtPeriodeDebut" MaxLength="7" VerticalAlignment="Top" Width="81"/>
+        <ComboBox HorizontalAlignment="Left" Height="26" x:Name="cmbCentre" VerticalAlignment="Top" Width="215" Margin="147,53,0,0"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="474,85,0,0" x:Name="txtPeriodeFin" MaxLength="7" VerticalAlignment="Top" Width="81" />
+        <ComboBox HorizontalAlignment="Left" Height="26" x:Name="cmbCategorie" VerticalAlignment="Top" Width="228" Margin="522,21,0,0"/>
+        <ComboBox HorizontalAlignment="Left" Height="26" x:Name="cmbRegroupement" VerticalAlignment="Top" Width="228" Margin="522,53,0,0"/>
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="148,24,0,0" x:Name="txtSite" VerticalAlignment="Top" Width="214" IsReadOnly="True" />
+        <sdk:Label Height="21" HorizontalAlignment="Left" Margin="186,89,0,0" x:Name="lbl_Centre_Copy6" VerticalAlignment="Top" Width="79" Content="mm/aaaa" />
+        <sdk:Label Height="21" HorizontalAlignment="Left" Margin="560,89,0,0" x:Name="lbl_Centre_Copy7" VerticalAlignment="Top" Width="79" Content="mm/aaaa" />
+    </Grid>
+</controls:ChildWindow>

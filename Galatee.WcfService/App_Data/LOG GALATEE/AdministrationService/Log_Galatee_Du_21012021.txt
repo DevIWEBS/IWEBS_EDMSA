@@ -1,0 +1,7 @@
+21/01/2021 11:50:15 | RetourneListePoste | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+21/01/2021 22:52:53 | RetourneListePoste | SPX_PARAM_RETOURNELISTEPOSTE:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Le délai de temporisation de sémaphore a expiré.)
+
+21/01/2021 23:40:53 | RetourneListePoste | SPX_PARAM_RETOURNELISTEPOSTE:Une erreur de niveau transport s'est produite lors de la réception des résultats du serveur. (provider: TCP Provider, error: 0 - Le délai de temporisation de sémaphore a expiré.)
+

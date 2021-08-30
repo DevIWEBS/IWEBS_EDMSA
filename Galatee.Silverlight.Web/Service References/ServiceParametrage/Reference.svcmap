@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="8861d858-d621-4889-b046-b662ce847595" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1819/Parametrage/Parametrage.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Parametrage6.xsd" MetadataType="Schema" ID="2da473d9-0ba3-4ede-8d69-fa79f58811d6" SourceId="1" SourceUrl="http://localhost:1819/Parametrage/Parametrage.svc?xsd=xsd0" />
+    <MetadataFile FileName="Parametrage61.xsd" MetadataType="Schema" ID="b9254a5c-6ba7-4a6a-a8b3-d6fec0051bf7" SourceId="1" SourceUrl="http://localhost:1819/Parametrage/Parametrage.svc?xsd=xsd1" />
+    <MetadataFile FileName="Parametrage62.xsd" MetadataType="Schema" ID="e2699db0-d98f-498d-86a5-82f814dd6cfa" SourceId="1" SourceUrl="http://localhost:1819/Parametrage/Parametrage.svc?xsd=xsd2" />
+    <MetadataFile FileName="Parametrage63.xsd" MetadataType="Schema" ID="1c58055c-6df4-4dbb-901f-0d455c86fe80" SourceId="1" SourceUrl="http://localhost:1819/Parametrage/Parametrage.svc?xsd=xsd3" />
+    <MetadataFile FileName="Parametrage64.xsd" MetadataType="Schema" ID="bdd92a54-3acb-44b5-a9da-a9da4732d694" SourceId="1" SourceUrl="http://localhost:1819/Parametrage/Parametrage.svc?xsd=xsd4" />
+    <MetadataFile FileName="Parametrage65.xsd" MetadataType="Schema" ID="8c7288ab-93b0-4003-9013-005e1016b794" SourceId="1" SourceUrl="http://localhost:1819/Parametrage/Parametrage.svc?xsd=xsd5" />
+    <MetadataFile FileName="Parametrage1.disco" MetadataType="Disco" ID="b5bd4745-b908-4fab-b4e9-fd07ee687b28" SourceId="1" SourceUrl="http://localhost:1819/Parametrage/Parametrage.svc?disco" />
+    <MetadataFile FileName="Parametrage1.wsdl" MetadataType="Wsdl" ID="83e6ad44-65b3-4bef-bcb2-1470cc17f4c8" SourceId="1" SourceUrl="http://localhost:1819/Parametrage/Parametrage.svc?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

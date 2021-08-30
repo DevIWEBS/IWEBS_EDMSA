@@ -1,0 +1,296 @@
+20/05/2021 20:09:28 | RenderReport | loadData
+
+20/05/2021 20:09:28 | RenderReport | 0229920924128
+
+20/05/2021 20:09:28 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 20:09:28 | SyncInvokeGetCsPrintFromWebPart | 0229920924128
+
+20/05/2021 20:09:28 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 20:09:28 | LoadData | 0229920924128
+
+20/05/2021 20:09:28 | LoadData | données trouve
+
+20/05/2021 20:09:28 | LoadData | Parametre non trouvé
+
+20/05/2021 20:09:28 | data | data trouve
+
+20/05/2021 20:09:28 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+20/05/2021 20:09:28 | CreatePDFChemin | Add DataSources ok
+
+20/05/2021 20:09:28 | RunCreationPDF | \\PC-DEV-010\Impression
+
+20/05/2021 20:21:05 | RenderReport | loadData
+
+20/05/2021 20:21:05 | RenderReport | 0229920215286
+
+20/05/2021 20:21:05 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 20:21:05 | SyncInvokeGetCsPrintFromWebPart | 0229920215286
+
+20/05/2021 20:21:05 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 20:21:05 | LoadData | 0229920215286
+
+20/05/2021 20:21:05 | LoadData | données trouve
+
+20/05/2021 20:21:05 | LoadData | Parametre trouvé
+
+20/05/2021 20:21:05 | data | data trouve
+
+20/05/2021 20:21:05 | CreatePDFChemin | ~/Reports/Facturation/FactureSimple.rdlc | Chemin du fichier rdlc
+
+20/05/2021 20:21:06 | CreatePDFChemin | Une erreur s'est produite lors du traitement du rapport local.
+
+20/05/2021 20:21:06 | Callback | Tentative de définition d'un paramètre de rapport « InteretMoratoire » qui n'est pas défini dans ce rapport.
+
+20/05/2021 21:06:17 | RenderReport | loadData
+
+20/05/2021 21:06:17 | RenderReport | 0351521617160
+
+20/05/2021 21:06:17 | RenderReport | 0351521616980
+
+20/05/2021 21:06:17 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 21:06:17 | SyncInvokeGetCsPrintFromWebPart | 0351521616980
+
+20/05/2021 21:06:17 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 21:06:18 | LoadData | 0351521617160
+
+20/05/2021 21:06:18 | LoadData | 0351521616980
+
+20/05/2021 21:06:18 | LoadData | données trouve
+
+20/05/2021 21:06:18 | LoadData | données trouve
+
+20/05/2021 21:06:18 | LoadData | Parametre trouvé
+
+20/05/2021 21:06:18 | LoadData | Parametre trouvé
+
+20/05/2021 21:06:18 | data | data trouve
+
+20/05/2021 21:06:18 | data | data trouve
+
+20/05/2021 21:06:18 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+20/05/2021 21:06:18 | CreatePDFChemin | ~/Reports/Caisse/recu.rdlc | Chemin du fichier rdlc
+
+20/05/2021 21:06:19 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+20/05/2021 21:06:19 | CreatePDFChemin | pTypeRecu : System.Collections.Specialized.StringCollection  pTypeRecu : System.Collections.Specialized.StringCollection | Set Parameters
+
+20/05/2021 21:06:19 | CreatePDFChemin | Add DataSources ok
+
+20/05/2021 21:06:19 | CreatePDFChemin | Add DataSources ok
+
+20/05/2021 21:06:19 | RunCreationPDF | \\PC-DEV-010\Impression
+
+20/05/2021 21:06:19 | RunCreationPDF | \\PC-DEV-010\Impression
+
+20/05/2021 21:25:09 | RenderReport | loadData
+
+20/05/2021 21:25:09 | RenderReport | 022992125970
+
+20/05/2021 21:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 21:25:10 | SyncInvokeGetCsPrintFromWebPart | 022992125970
+
+20/05/2021 21:25:10 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 21:25:10 | LoadData | 022992125970
+
+20/05/2021 21:25:10 | LoadData | données trouve
+
+20/05/2021 21:25:10 | LoadData | Parametre non trouvé
+
+20/05/2021 21:25:10 | data | data trouve
+
+20/05/2021 21:25:10 | CreatePDFChemin | ~/Reports/Accueil/AccuseRecption.rdlc | Chemin du fichier rdlc
+
+20/05/2021 21:25:10 | CreatePDFChemin | Add DataSources ok
+
+20/05/2021 21:25:10 | RunCreationPDF | \\PC-DEV-010\Impression
+
+20/05/2021 23:44:59 | RenderReport | loadData
+
+20/05/2021 23:44:59 | RenderReport | 02299234458241
+
+20/05/2021 23:44:59 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 23:44:59 | SyncInvokeGetCsPrintFromWebPart | 02299234458241
+
+20/05/2021 23:44:59 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 23:44:59 | LoadData | 02299234458241
+
+20/05/2021 23:44:59 | LoadData | données trouve
+
+20/05/2021 23:45:00 | LoadData | Parametre non trouvé
+
+20/05/2021 23:45:00 | data | data trouve data count: 8
+
+20/05/2021 23:45:00 | Page_Load | RenderReport retour ok
+
+20/05/2021 23:45:00 | RunExportFile | \\PC-DEV-010\Impression|Comptabilisation205202123450|xlsx
+
+20/05/2021 23:45:02 | RunExportFile | Générer byte
+
+20/05/2021 23:45:02 | RunExportFile | Initialiser le filsStream
+
+20/05/2021 23:45:02 | RunExportFile | Création du fichier
+
+20/05/2021 23:45:02 | Page_Load | ICI3
+
+20/05/2021 23:45:11 | RenderReport | loadData
+
+20/05/2021 23:45:11 | RenderReport | 0229923459904
+
+20/05/2021 23:45:11 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 23:45:11 | SyncInvokeGetCsPrintFromWebPart | 0229923459904
+
+20/05/2021 23:45:11 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 23:45:11 | LoadData | 0229923459904
+
+20/05/2021 23:45:11 | LoadData | données trouve
+
+20/05/2021 23:45:11 | LoadData | Parametre non trouvé
+
+20/05/2021 23:45:11 | data | data trouve data count: 87
+
+20/05/2021 23:45:11 | Page_Load | RenderReport retour ok
+
+20/05/2021 23:45:11 | RunExportFile | \\PC-DEV-010\Impression|Operation2052021234511|xlsx
+
+20/05/2021 23:45:11 | RunExportFile | Générer byte
+
+20/05/2021 23:45:11 | RunExportFile | Initialiser le filsStream
+
+20/05/2021 23:45:11 | RunExportFile | Création du fichier
+
+20/05/2021 23:45:11 | Page_Load | ICI3
+
+20/05/2021 23:48:35 | RenderReport | loadData
+
+20/05/2021 23:48:35 | RenderReport | 02299234835727
+
+20/05/2021 23:48:35 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 23:48:35 | SyncInvokeGetCsPrintFromWebPart | 02299234835727
+
+20/05/2021 23:48:35 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 23:48:35 | LoadData | 02299234835727
+
+20/05/2021 23:48:35 | LoadData | données trouve
+
+20/05/2021 23:48:35 | LoadData | Parametre non trouvé
+
+20/05/2021 23:48:35 | data | data trouve data count: 3
+
+20/05/2021 23:48:35 | Page_Load | RenderReport retour ok
+
+20/05/2021 23:48:35 | RunExportFile | \\PC-DEV-010\Impression|Comptabilisation2052021234835|xlsx
+
+20/05/2021 23:48:36 | RunExportFile | Générer byte
+
+20/05/2021 23:48:36 | RunExportFile | Initialiser le filsStream
+
+20/05/2021 23:48:36 | RunExportFile | Création du fichier
+
+20/05/2021 23:48:36 | Page_Load | ICI3
+
+20/05/2021 23:48:43 | RenderReport | loadData
+
+20/05/2021 23:48:43 | RenderReport | 02299234843406
+
+20/05/2021 23:48:43 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 23:48:43 | SyncInvokeGetCsPrintFromWebPart | 02299234843406
+
+20/05/2021 23:48:43 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 23:48:43 | LoadData | 02299234843406
+
+20/05/2021 23:48:43 | LoadData | données trouve
+
+20/05/2021 23:48:43 | LoadData | Parametre non trouvé
+
+20/05/2021 23:48:43 | data | data trouve data count: 43
+
+20/05/2021 23:48:43 | Page_Load | RenderReport retour ok
+
+20/05/2021 23:48:43 | RunExportFile | \\PC-DEV-010\Impression|Operation2052021234843|xlsx
+
+20/05/2021 23:48:44 | RunExportFile | Générer byte
+
+20/05/2021 23:48:44 | RunExportFile | Initialiser le filsStream
+
+20/05/2021 23:48:44 | RunExportFile | Création du fichier
+
+20/05/2021 23:48:44 | Page_Load | ICI3
+
+20/05/2021 23:56:02 | RenderReport | loadData
+
+20/05/2021 23:56:02 | RenderReport | 0229923561854
+
+20/05/2021 23:56:02 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 23:56:02 | SyncInvokeGetCsPrintFromWebPart | 0229923561854
+
+20/05/2021 23:56:02 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 23:56:02 | LoadData | 0229923561854
+
+20/05/2021 23:56:02 | LoadData | données trouve
+
+20/05/2021 23:56:02 | LoadData | Parametre non trouvé
+
+20/05/2021 23:56:02 | data | data trouve data count: 117
+
+20/05/2021 23:56:02 | Page_Load | RenderReport retour ok
+
+20/05/2021 23:56:02 | RunExportFile | \\PC-DEV-010\Impression|Operation205202123562|xlsx
+
+20/05/2021 23:56:04 | RunExportFile | Générer byte
+
+20/05/2021 23:56:04 | RunExportFile | Initialiser le filsStream
+
+20/05/2021 23:56:04 | RunExportFile | Création du fichier
+
+20/05/2021 23:56:04 | Page_Load | ICI3
+
+20/05/2021 23:56:09 | RenderReport | loadData
+
+20/05/2021 23:56:09 | RenderReport | 0229923569304
+
+20/05/2021 23:56:09 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+20/05/2021 23:56:09 | SyncInvokeGetCsPrintFromWebPart | 0229923569304
+
+20/05/2021 23:56:09 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+20/05/2021 23:56:09 | LoadData | 0229923569304
+
+20/05/2021 23:56:09 | LoadData | données trouve
+
+20/05/2021 23:56:09 | LoadData | Parametre non trouvé
+
+20/05/2021 23:56:09 | data | data trouve data count: 5
+
+20/05/2021 23:56:09 | Page_Load | RenderReport retour ok
+
+20/05/2021 23:56:09 | RunExportFile | \\PC-DEV-010\Impression|Comptabilisation205202123569|xlsx
+
+20/05/2021 23:56:10 | RunExportFile | Générer byte
+
+20/05/2021 23:56:10 | RunExportFile | Initialiser le filsStream
+
+20/05/2021 23:56:10 | RunExportFile | Création du fichier
+
+20/05/2021 23:56:10 | Page_Load | ICI3
+

@@ -1,0 +1,192 @@
+23/07/2021 10:19:34 | RenderReport | loadData
+
+23/07/2021 10:19:34 | RenderReport | 10000101928180
+
+23/07/2021 10:19:34 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+23/07/2021 10:19:34 | SyncInvokeGetCsPrintFromWebPart | 10000101928180
+
+23/07/2021 10:19:34 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+23/07/2021 10:19:34 | LoadData | 10000101928180
+
+23/07/2021 10:19:34 | LoadData | données trouve
+
+23/07/2021 10:19:34 | LoadData | Parametre trouvé
+
+23/07/2021 10:19:34 | data | data trouve
+
+23/07/2021 10:19:34 | CreatePDFChemin | ~/Reports/Precontentieux/CampagnePrecontentieux.rdlc | Chemin du fichier rdlc
+
+23/07/2021 10:19:37 | CreatePDFChemin | pUser : System.Collections.Specialized.StringCollection  pUser : System.Collections.Specialized.StringCollection | Set Parameters
+
+23/07/2021 10:19:37 | CreatePDFChemin | Add DataSources ok
+
+23/07/2021 10:19:37 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+23/07/2021 10:31:41 | RenderReport | loadData
+
+23/07/2021 10:31:41 | RenderReport | 1000010314198
+
+23/07/2021 10:31:41 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+23/07/2021 10:31:41 | SyncInvokeGetCsPrintFromWebPart | 1000010314198
+
+23/07/2021 10:31:41 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+23/07/2021 10:31:41 | LoadData | 1000010314198
+
+23/07/2021 10:31:41 | LoadData | données trouve
+
+23/07/2021 10:31:41 | LoadData | Parametre non trouvé
+
+23/07/2021 10:31:41 | data | data trouve data count: 2
+
+23/07/2021 10:31:41 | Page_Load | RenderReport retour ok
+
+23/07/2021 10:31:41 | RunExportFile | \\LAP-IVS-01\Impression|LettreInvitation2372021103141|pdf
+
+23/07/2021 10:31:44 | Page_Load | ICI3
+
+23/07/2021 10:37:13 | RenderReport | loadData
+
+23/07/2021 10:37:13 | RenderReport | 10000103713503
+
+23/07/2021 10:37:13 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+23/07/2021 10:37:13 | SyncInvokeGetCsPrintFromWebPart | 10000103713503
+
+23/07/2021 10:37:13 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+23/07/2021 10:37:13 | LoadData | 10000103713503
+
+23/07/2021 10:37:13 | LoadData | données trouve
+
+23/07/2021 10:37:13 | LoadData | Parametre non trouvé
+
+23/07/2021 10:37:13 | data | data trouve data count: 2
+
+23/07/2021 10:37:13 | Page_Load | RenderReport retour ok
+
+23/07/2021 10:37:13 | RunExportFile | \\LAP-IVS-01\Impression|LettreInvitation2372021103713|pdf
+
+23/07/2021 10:37:14 | Page_Load | ICI3
+
+23/07/2021 11:12:37 | RenderReport | loadData
+
+23/07/2021 11:12:37 | RenderReport | 10000111237580
+
+23/07/2021 11:12:37 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+23/07/2021 11:12:37 | SyncInvokeGetCsPrintFromWebPart | 10000111237580
+
+23/07/2021 11:12:37 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+23/07/2021 11:12:37 | LoadData | 10000111237580
+
+23/07/2021 11:12:37 | LoadData | données trouve
+
+23/07/2021 11:12:37 | LoadData | Parametre non trouvé
+
+23/07/2021 11:12:37 | data | data trouve data count: 1
+
+23/07/2021 11:12:37 | Page_Load | RenderReport retour ok
+
+23/07/2021 11:12:37 | RunExportFile | \\LAP-IVS-01\Impression|LettreInvitation2372021111237|pdf
+
+23/07/2021 11:12:38 | Page_Load | ICI3
+
+23/07/2021 11:19:32 | RenderReport | loadData
+
+23/07/2021 11:19:32 | RenderReport | 10000111932265
+
+23/07/2021 11:19:32 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+23/07/2021 11:19:32 | SyncInvokeGetCsPrintFromWebPart | 10000111932265
+
+23/07/2021 11:19:32 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+23/07/2021 11:19:32 | RenderReport | 10000111932349
+
+23/07/2021 11:19:32 | LoadData | 10000111932265
+
+23/07/2021 11:19:32 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+23/07/2021 11:19:32 | SyncInvokeGetCsPrintFromWebPart | 10000111932349
+
+23/07/2021 11:19:32 | LoadData | données trouve
+
+t | Lecture OK
+
+23/07/2021 11:19:32 | LoadData | 10000111932349
+
+23/07/2021 11:19:32 | LoadData | données trouve
+
+23/07/2021 11:19:32 | LoadData | Parametre non trouvé
+
+23/07/2021 11:19:32 | data | data trouve
+
+23/07/2021 11:19:32 | LoadData | Parametre non trouvé
+
+23/07/2021 11:19:32 | CreatePDFChemin | ~/Reports/Precontentieux/RendezvousClient.rdlc | Chemin du fichier rdlc
+
+23/07/2021 11:19:32 | data | data trouve
+
+23/07/2021 11:19:32 | CreatePDFChemin | Add DataSources ok
+
+23/07/2021 11:19:32 | CreatePDFChemin | ~/Reports/Precontentieux/RendezvousClient.rdlc | Chemin du fichier rdlc
+
+23/07/2021 11:19:32 | CreatePDFChemin | Add DataSources ok
+
+23/07/2021 11:19:32 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+23/07/2021 11:19:32 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+23/07/2021 15:21:33 | RenderReport | loadData
+
+23/07/2021 15:21:33 | RenderReport | 10000152131189
+
+23/07/2021 15:21:33 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+23/07/2021 15:21:33 | SyncInvokeGetCsPrintFromWebPart | 10000152131189
+
+23/07/2021 15:21:33 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+23/07/2021 15:21:33 | LoadData | 10000152131189
+
+23/07/2021 15:21:33 | LoadData | données trouve
+
+23/07/2021 15:21:34 | LoadData | Parametre non trouvé
+
+23/07/2021 15:21:34 | data | data trouve
+
+23/07/2021 15:21:34 | CreatePDFChemin | ~/Reports/Precontentieux/RendezvousClient.rdlc | Chemin du fichier rdlc
+
+23/07/2021 15:21:34 | CreatePDFChemin | Add DataSources ok
+
+23/07/2021 15:21:34 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+23/07/2021 15:50:24 | RenderReport | loadData
+
+23/07/2021 15:50:24 | RenderReport | 10000155024731
+
+23/07/2021 15:50:24 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+23/07/2021 15:50:24 | SyncInvokeGetCsPrintFromWebPart | 10000155024731
+
+23/07/2021 15:50:24 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+23/07/2021 15:50:24 | LoadData | 10000155024731
+
+23/07/2021 15:50:24 | LoadData | données trouve
+
+23/07/2021 15:50:24 | LoadData | Parametre non trouvé
+
+23/07/2021 15:50:24 | data | data trouve
+
+23/07/2021 15:50:24 | CreatePDFChemin | ~/Reports/Precontentieux/RendezvousClient.rdlc | Chemin du fichier rdlc
+
+23/07/2021 15:50:24 | CreatePDFChemin | Add DataSources ok
+
+23/07/2021 15:50:24 | RunCreationPDF | \\LAP-IVS-01\Impression
+

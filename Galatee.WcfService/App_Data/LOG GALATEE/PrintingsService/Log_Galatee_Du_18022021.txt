@@ -1,0 +1,146 @@
+18/02/2021 14:17:57 | RenderReport | loadData
+
+18/02/2021 14:17:58 | RenderReport | 01485141754249
+
+18/02/2021 14:17:58 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/02/2021 14:17:58 | SyncInvokeGetCsPrintFromWebPart | 01485141754249
+
+18/02/2021 14:17:58 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/02/2021 14:17:58 | LoadData | 01485141754249
+
+18/02/2021 14:17:58 | LoadData | données trouve
+
+18/02/2021 14:17:58 | LoadData | Parametre trouvé
+
+18/02/2021 14:17:58 | data | data trouve
+
+18/02/2021 14:17:58 | CreatePDFChemin | ~/Reports/Facturation/FactureSimple.rdlc | Chemin du fichier rdlc
+
+18/02/2021 14:17:59 | CreatePDFChemin | TypeEdition : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+18/02/2021 14:17:59 | CreatePDFChemin | Add DataSources ok
+
+18/02/2021 14:17:59 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+18/02/2021 16:56:30 | RenderReport | loadData
+
+18/02/2021 16:56:30 | RenderReport | 02805165628424
+
+18/02/2021 16:56:30 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/02/2021 16:56:30 | SyncInvokeGetCsPrintFromWebPart | 02805165628424
+
+18/02/2021 16:56:30 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/02/2021 16:56:30 | LoadData | 02805165628424
+
+18/02/2021 16:56:30 | LoadData | données trouve
+
+18/02/2021 16:56:30 | LoadData | Parametre non trouvé
+
+18/02/2021 16:56:30 | data | data trouve data count: 25
+
+18/02/2021 16:56:30 | Page_Load | RenderReport retour ok
+
+18/02/2021 16:56:30 | RunExportFile | \\LAP-IVS-01\Impression|Operation1822021165630|xlsx
+
+18/02/2021 16:56:33 | RunExportFile | Générer byte
+
+18/02/2021 16:56:33 | RunExportFile | Initialiser le filsStream
+
+18/02/2021 16:56:33 | RunExportFile | Création du fichier
+
+18/02/2021 16:56:33 | Page_Load | ICI3
+
+18/02/2021 19:47:52 | RenderReport | loadData
+
+18/02/2021 19:47:52 | RenderReport | 01312194749862
+
+18/02/2021 19:47:52 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/02/2021 19:47:52 | SyncInvokeGetCsPrintFromWebPart | 01312194749862
+
+18/02/2021 19:47:52 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/02/2021 19:47:52 | LoadData | 01312194749862
+
+18/02/2021 19:47:52 | LoadData | données trouve
+
+18/02/2021 19:47:52 | LoadData | Parametre trouvé
+
+18/02/2021 19:47:52 | data | data trouve data count: 21
+
+18/02/2021 19:47:54 | Page_Load | RenderReport retour ok
+
+18/02/2021 19:47:54 | RunExportFile | \\LAP-IVS-01\Impression|Demande1822021194754|xlsx
+
+18/02/2021 19:47:57 | RunExportFile | Générer byte
+
+18/02/2021 19:47:57 | RunExportFile | Initialiser le filsStream
+
+18/02/2021 19:47:57 | RunExportFile | Création du fichier
+
+18/02/2021 19:47:57 | Page_Load | ICI3
+
+18/02/2021 20:11:07 | RenderReport | loadData
+
+18/02/2021 20:11:07 | RenderReport | 0131220114836
+
+18/02/2021 20:11:07 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/02/2021 20:11:07 | SyncInvokeGetCsPrintFromWebPart | 0131220114836
+
+18/02/2021 20:11:07 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/02/2021 20:11:07 | LoadData | 0131220114836
+
+18/02/2021 20:11:07 | LoadData | données trouve
+
+18/02/2021 20:11:07 | LoadData | Parametre trouvé
+
+18/02/2021 20:11:07 | data | data trouve data count: 21
+
+18/02/2021 20:11:08 | Page_Load | RenderReport retour ok
+
+18/02/2021 20:11:08 | RunExportFile | \\LAP-IVS-01\Impression|Demande182202120118|xlsx
+
+18/02/2021 20:11:12 | RunExportFile | Générer byte
+
+18/02/2021 20:11:12 | RunExportFile | Initialiser le filsStream
+
+18/02/2021 20:11:12 | RunExportFile | Création du fichier
+
+18/02/2021 20:11:12 | Page_Load | ICI3
+
+18/02/2021 20:14:52 | RenderReport | loadData
+
+18/02/2021 20:14:52 | RenderReport | 01312201452872
+
+18/02/2021 20:14:52 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+18/02/2021 20:14:52 | SyncInvokeGetCsPrintFromWebPart | 01312201452872
+
+18/02/2021 20:14:52 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+18/02/2021 20:14:53 | LoadData | 01312201452872
+
+18/02/2021 20:14:53 | LoadData | données trouve
+
+18/02/2021 20:14:53 | LoadData | Parametre trouvé
+
+18/02/2021 20:14:53 | data | data trouve data count: 21
+
+18/02/2021 20:14:54 | Page_Load | RenderReport retour ok
+
+18/02/2021 20:14:54 | RunExportFile | \\LAP-IVS-01\Impression|Demande1822021201454|xlsx
+
+18/02/2021 20:14:55 | RunExportFile | Générer byte
+
+18/02/2021 20:14:55 | RunExportFile | Initialiser le filsStream
+
+18/02/2021 20:14:55 | RunExportFile | Création du fichier
+
+18/02/2021 20:14:55 | Page_Load | ICI3
+

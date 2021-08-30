@@ -1,0 +1,109 @@
+22/06/2021 15:26:59 | SyncInvokeRetourneTousCoper | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=4135; poignée de main=14618; 
+
+22/06/2021 15:26:59 | SyncInvokeRetourneListeDenominationAll | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=4135; poignée de main=14618; 
+
+22/06/2021 15:29:17 | SyncInvokeChargerPuissanceReglageCompteur | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=4135; poignée de main=14618; 
+
+22/06/2021 15:30:31 | GetAllTypeClient | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé lors de la tentative de consommation de l'accusé réception de la poignée de main de préconnexion. Cela peut être dû à un échec de la poignée de main de préconnexion ou au fait que le serveur n'a pas pu répondre dans les temps.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=20556; poignée de main=91; 
+
+22/06/2021 15:36:27 | SyncInvokeChargerTarifParCategorie | Enregistrement annulé :
+Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+22/06/2021 15:36:27 | SyncInvokeRetourneListeTaxe | Enregistrement annulé :
+Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+22/06/2021 15:36:27 | SyncInvokeChargerPuissanceReglageCompteur | Enregistrement annulé :
+Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+22/06/2021 15:36:27 | SyncInvokeRetourneFermable | Enregistrement annulé :
+Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+22/06/2021 15:36:28 | SyncInvokeRetourneOrigine | La référence d'objet n'est pas définie à une instance d'un objet.
+
+22/06/2021 15:36:28 | SyncInvokeChargerTarifParReglageCompteur | Enregistrement annulé :
+Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+22/06/2021 15:36:29 | GetAllTypeClient | Enregistrement annulé :
+Une connexion a été établie avec le serveur, mais une erreur s'est ensuite produite pendant la négociation préalable à l'ouverture de session. (provider: SSL Provider, error: 0 - Dépassement du délai d’attente.)
+
+22/06/2021 15:36:48 | SyncInvokeChargerLesSecteurs | SPX_PARAM_SELECT_DONNEREFERENCE:Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:48 | SyncInvokeRetourneOptionDemande | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:50 | SyncInvokeRetourneCodeRegroupement | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:50 | SyncInvokeRetourneNationnalite | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:51 | SyncInvokeChargerCalibreCompteur | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:51 | SyncInvokeRetourneCodeConsomateur | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:52 | SyncInvokeRetourneToutCadran | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:52 | SyncInvokeChargerType | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+�=999; 
+
+22/06/2021 15:36:52 | SyncInvokeRetourneListeTaxe | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:53 | SyncInvokeRetourneListeDesCas | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:53 | SyncInvokeRetourneTousCoper | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:53 | SyncInvokeChargerTarifParCategorie | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:36:55 | SyncInvokeRetourneOptionDemande | Enregistrement annulé :
+Le délai d'attente pour la connexion expiré. Le délai d'attente s'est écoulé au début de la phase suivant la connexion.La connexion a pu passer le délai en attendant que le serveur termine le processus de connexion et réponde. Elle peut également avoir passé le délai lors de la tentative de création de plusieurs connexions actives.  Le temps écoulé lors de la tentative de connexion à ce serveur était de - [Préconnexion] initialisation=10933; poignée de main=2218; [connexion] initialisation=0; authentification=0; [Post connexion] terminé=999; 
+
+22/06/2021 15:39:24 | SyncInvokeRetourneToutCadran | SPX_PARAM_SELECT_DONNEREFERENCE:Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:39:24 | SyncInvokeChargerCoutDemande | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:39:24 | SyncInvokeRetourneTousCoper | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:39:25 | SyncInvokeChargerTarifParCategorie | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:45:51 | SyncInvokeRetourneCodeRegroupement | SPX_PARAM_RETOURNEALLCODEREGROUPEMENT:Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:45:51 | SyncInvokeRetourneToutCadran | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:45:51 | SyncInvokeChargerType | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:45:51 | SyncInvokeChargerLesSecteurs | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:45:51 | SyncInvokeRetourneToutMarque | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:45:52 | SyncInvokeChargerCoutDemande | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:45:52 | SyncInvokeRetourneListeTaxe | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:45:52 | SyncInvokeRetourneListeDesCas | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+22/06/2021 15:45:52 | SyncInvokeChargerTarifParCategorie | Enregistrement annulé :
+Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+

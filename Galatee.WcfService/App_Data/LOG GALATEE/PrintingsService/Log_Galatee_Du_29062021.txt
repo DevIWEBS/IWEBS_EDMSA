@@ -1,0 +1,130 @@
+29/06/2021 02:57:52 | RenderReport | loadData
+
+29/06/2021 02:57:52 | RenderReport | 0312625747816
+
+29/06/2021 02:57:52 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+29/06/2021 02:57:52 | SyncInvokeGetCsPrintFromWebPart | 0312625747816
+
+29/06/2021 02:57:52 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+29/06/2021 02:57:53 | LoadData | 0312625747816
+
+29/06/2021 02:57:53 | LoadData | données trouve
+
+29/06/2021 02:57:53 | LoadData | Parametre trouvé
+
+29/06/2021 02:57:53 | data | data trouve data count: 412
+
+29/06/2021 02:57:54 | Page_Load | RenderReport retour ok
+
+29/06/2021 02:57:54 | RunExportFile | \\LAP-IVS-01\Impression|FactureSimpleMT01305186A296202125754|pdf
+
+29/06/2021 02:58:05 | Page_Load | ICI3
+
+29/06/2021 03:29:26 | RenderReport | loadData
+
+29/06/2021 03:29:26 | RenderReport | 0250332925739
+
+29/06/2021 03:29:26 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+29/06/2021 03:29:26 | SyncInvokeGetCsPrintFromWebPart | 0250332925739
+
+29/06/2021 03:29:26 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+29/06/2021 03:29:27 | LoadData | 0250332925739
+
+29/06/2021 03:29:27 | LoadData | données trouve
+
+29/06/2021 03:29:27 | LoadData | Parametre non trouvé
+
+29/06/2021 03:29:27 | data | data trouve
+
+29/06/2021 03:29:27 | CreatePDFChemin | ~/Reports/Facturation/AnomalieFacturation.rdlc | Chemin du fichier rdlc
+
+29/06/2021 03:29:27 | CreatePDFChemin | Add DataSources ok
+
+29/06/2021 03:29:27 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+29/06/2021 03:29:29 | RunCreationPDF | An error occurred during local report processing.
+
+29/06/2021 03:29:29 | Callback | One or more parameters required to run the report have not been specified.
+
+29/06/2021 03:31:09 | RenderReport | loadData
+
+29/06/2021 03:31:09 | RenderReport | 025033313592
+
+29/06/2021 03:31:09 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+29/06/2021 03:31:09 | SyncInvokeGetCsPrintFromWebPart | 025033313592
+
+29/06/2021 03:31:09 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+29/06/2021 03:31:09 | LoadData | 025033313592
+
+29/06/2021 03:31:09 | LoadData | données trouve
+
+29/06/2021 03:31:09 | LoadData | Parametre non trouvé
+
+29/06/2021 03:31:09 | data | data trouve
+
+29/06/2021 03:31:09 | CreatePDFChemin | ~/Reports/Facturation/AnomalieFacturation.rdlc | Chemin du fichier rdlc
+
+29/06/2021 03:31:09 | CreatePDFChemin | Add DataSources ok
+
+29/06/2021 03:31:09 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+29/06/2021 03:31:10 | RunCreationPDF | An error occurred during local report processing.
+
+29/06/2021 03:31:10 | Callback | One or more parameters required to run the report have not been specified.
+
+29/06/2021 03:38:05 | RenderReport | loadData
+
+29/06/2021 03:38:05 | RenderReport | 025033382973
+
+29/06/2021 03:38:05 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+29/06/2021 03:38:05 | SyncInvokeGetCsPrintFromWebPart | 025033382973
+
+29/06/2021 03:38:05 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+29/06/2021 03:38:06 | LoadData | 025033382973
+
+29/06/2021 03:38:06 | LoadData | données trouve
+
+29/06/2021 03:38:06 | LoadData | Parametre non trouvé
+
+29/06/2021 03:38:06 | data | data trouve
+
+29/06/2021 03:38:06 | CreatePDFChemin | ~/Reports/Facturation/AnomalieFacturation.rdlc | Chemin du fichier rdlc
+
+29/06/2021 03:38:06 | CreatePDFChemin | Add DataSources ok
+
+29/06/2021 03:38:06 | RunCreationPDF | \\LAP-IVS-01\Impression
+
+29/06/2021 03:49:30 | RenderReport | loadData
+
+29/06/2021 03:49:30 | RenderReport | 0250334929476
+
+29/06/2021 03:49:30 | SyncInvokeGetCsPrintFromWebPart | Lecture debut
+
+29/06/2021 03:49:30 | SyncInvokeGetCsPrintFromWebPart | 0250334929476
+
+29/06/2021 03:49:30 | SyncInvokeGetCsPrintFromWebPart | Lecture OK
+
+29/06/2021 03:49:30 | LoadData | 0250334929476
+
+29/06/2021 03:49:30 | LoadData | données trouve
+
+29/06/2021 03:49:30 | LoadData | Parametre trouvé
+
+29/06/2021 03:49:30 | data | data trouve
+
+29/06/2021 03:49:30 | CreatePDFChemin | ~/Reports/Facturation/AnomalieFacturation.rdlc | Chemin du fichier rdlc
+
+29/06/2021 03:49:31 | CreatePDFChemin | Print : System.Collections.Specialized.StringCollection  Print : System.Collections.Specialized.StringCollection | Set Parameters
+
+29/06/2021 03:49:31 | CreatePDFChemin | Add DataSources ok
+
+29/06/2021 03:49:31 | RunCreationPDF | \\LAP-IVS-01\Impression
+

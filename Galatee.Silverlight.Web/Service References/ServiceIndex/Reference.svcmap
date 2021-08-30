@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="bed3fffc-6eda-4ed3-83b4-eb48762d0394" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>false</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1819/Acceuil/AcceuilService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AcceuilService6.xsd" MetadataType="Schema" ID="48e608af-c6d8-4ea0-9b2e-cfb0740bba14" SourceId="1" SourceUrl="http://localhost:1819/Acceuil/AcceuilService.svc?xsd=xsd0" />
+    <MetadataFile FileName="AcceuilService1.disco" MetadataType="Disco" ID="5d55db36-923d-42c4-baa7-1d509f3b745d" SourceId="1" SourceUrl="http://localhost:1819/Acceuil/AcceuilService.svc?disco" />
+    <MetadataFile FileName="AcceuilService1.wsdl" MetadataType="Wsdl" ID="c6f60b98-7db4-4986-94f5-f2129f90e70d" SourceId="1" SourceUrl="http://localhost:1819/Acceuil/AcceuilService.svc?wsdl" />
+    <MetadataFile FileName="AcceuilService61.xsd" MetadataType="Schema" ID="5dda6668-b4e9-4346-8006-0993caaf597b" SourceId="1" SourceUrl="http://localhost:1819/Acceuil/AcceuilService.svc?xsd=xsd5" />
+    <MetadataFile FileName="AcceuilService62.xsd" MetadataType="Schema" ID="fcbe7653-0367-436b-8874-6ab3991acfb5" SourceId="1" SourceUrl="http://localhost:1819/Acceuil/AcceuilService.svc?xsd=xsd4" />
+    <MetadataFile FileName="AcceuilService63.xsd" MetadataType="Schema" ID="f3cf0003-b86b-44c2-83dc-8cae791ef8e7" SourceId="1" SourceUrl="http://localhost:1819/Acceuil/AcceuilService.svc?xsd=xsd3" />
+    <MetadataFile FileName="AcceuilService64.xsd" MetadataType="Schema" ID="f4952c35-4e9e-491f-ba48-2bf1bc00d067" SourceId="1" SourceUrl="http://localhost:1819/Acceuil/AcceuilService.svc?xsd=xsd2" />
+    <MetadataFile FileName="AcceuilService65.xsd" MetadataType="Schema" ID="5cf9ef5b-990c-48de-9aa3-1b8f9b128114" SourceId="1" SourceUrl="http://localhost:1819/Acceuil/AcceuilService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

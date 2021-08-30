@@ -1,0 +1,24 @@
+04/08/2021 00:36:37 | LogException | Accès refusé
+
+04/08/2021 00:36:37 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+04/08/2021 00:36:37 | SelectAllOperation | Échec du fournisseur sous-jacent sur Open.
+
+04/08/2021 00:41:26 | LogException | Accès refusé
+
+04/08/2021 00:41:26 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+04/08/2021 00:41:26 | SelectAllOperation | Échec du fournisseur sous-jacent sur Open.
+
+04/08/2021 01:18:32 | LogException | Accès refusé
+
+04/08/2021 01:18:32 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+04/08/2021 01:18:33 | SelectAllOperation | Échec du fournisseur sous-jacent sur Open.
+
+04/08/2021 01:21:10 | LogException | Accès refusé
+
+04/08/2021 01:21:10 | LogException | Une erreur liée au réseau ou spécifique à l'instance s'est produite lors de l'établissement d'une connexion à SQL Server. Le serveur est introuvable ou n'est pas accessible. Vérifiez que le nom de l'instance est correct et que SQL Server est configuré pour autoriser les connexions distantes. (provider: Named Pipes Provider, error: 40 - Impossible d'ouvrir une connexion à SQL Server)
+
+04/08/2021 01:21:10 | SelectAllOperation | Échec du fournisseur sous-jacent sur Open.
+
